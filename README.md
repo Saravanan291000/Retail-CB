@@ -2,6 +2,10 @@ Retail Analysis: Monthly Sales, RFM, and Churn Analysis
 
 Project Overview
 
+![Image](https://github.com/user-attachments/assets/9c38bed5-0b8d-4e0e-aaad-d61ff7e14a99)
+
+
+
 This project focuses on analyzing retail sales data to derive key business insights. It includes:
 
 Monthly Sales Analysis: Aggregating total sales over time to identify trends.
